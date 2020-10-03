@@ -18,7 +18,7 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="http://g.recordit.co/9oAwpjMZj4.gif" width=250><br>
 
 ### Notes
 I had issues with the formatting of this app! I realized that I select options such as "Use this as initial view controller" or setting the size estimation as "None."
