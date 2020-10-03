@@ -21,5 +21,5 @@
 <img src="http://g.recordit.co/9oAwpjMZj4.gif" width=250><br>
 
 ### Notes
-I had issues with the formatting of this app! I realized that I select options such as "Use this as initial view controller" or setting the size estimation as "None."
+I had issues with the formatting of this app! I realized that I needed to select options such as "Use this as initial view controller" or setting the size estimation as "None."
 I also struggled to commit to this repo instead of deleting and uploading again. I normally know to commit to a clone I have set up in my local computer. However for this project, I learn how to override another commit and force add commits. 
