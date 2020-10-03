@@ -26,7 +26,7 @@ class MovieGridViewController: UIViewController, UICollectionViewDataSource, UIC
         layout.minimumLineSpacing = 4
         layout.minimumInteritemSpacing = 4
         
-        let width = (view.frame.size.width - layout.minimumInteritemSpacing * 3) / 2
+        let width = (view.frame.size.width - layout.minimumInteritemSpacing * 3) / 2 //changed this to two movies per row because the 3 movies per row was weird looking 
         
         layout.itemSize = CGSize(width: width, height: width * 3 / 2)
         
